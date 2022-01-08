@@ -1,0 +1,14 @@
+.house-container {
+    /*padding: 20px;*/
+    width: 100%;
+}
+
+.house-child {
+    width: 30%;
+    float: left;
+    padding: 20px;
+}
+
+#house_filter_ajax {
+    margin-top: 10px;
+}
